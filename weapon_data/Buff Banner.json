@@ -1,0 +1,209 @@
+{
+  "weapon": "Buff Banner",
+  "title": "Battle Banner",
+  "added": "2009-12-17",
+  "stats": {
+    "2015-03-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits.",
+        "Rage increases through damage done."
+      ],
+      "changes": [
+        "Added Strange quality."
+      ]
+    },
+    "2014-11-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits.",
+        "Rage increases through damage done."
+      ],
+      "changes": [
+        "[Undocumented] Updated model."
+      ]
+    },
+    "2014-04-01": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits.",
+        "Rage increases through damage done."
+      ],
+      "changes": [
+        "[Undocumented] Fixed crit boosted glow not showing."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits.",
+        "Rage increases through damage done."
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-07-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits.",
+        "Rage increases through damage done."
+      ],
+      "changes": [
+        "[Undocumented] Added \"Mini Crit!\" next to the health bar when under the effects of the Buff Banner.",
+        "[Undocumented] Updated description text."
+      ]
+    },
+    "2013-01-16": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Fixed Strange Festive Buff Banner not always tracking usage.",
+        "Added The Festive Buff Banner to the list of items allowed in Medieval Mode."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Added Festive variant.",
+        "[Undocumented] Rage can now be generated from Tanks in Mann vs. Machine."
+      ]
+    },
+    "2012-03-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Fixed Soldier buffs and rage meters not always being reset."
+      ]
+    },
+    "2012-01-11": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Fixed incorrect player animations for the Buff Banner."
+      ]
+    },
+    "2011-06-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Fixed a bug that caused players to see the wrong backpacks on some classes."
+      ]
+    },
+    "2011-03-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Updated bugle model with optimizations and LODs."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Updated flag model with optimizations and LODs."
+      ]
+    },
+    "2010-10-06": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Soldiers no longer maintain their rage level when changing loadout."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "[Undocumented] The weapon was added in the crafting blueprint for the Battalion's Backup."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Added jiggle bones to the Buff Banner."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Increased the rate of the Soldier's Rage generation by 40%.",
+        "Reduced the duration of the Soldier's Buff Banner effect from 14 seconds to 10."
+      ]
+    },
+    "2010-01-06": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Soldier Rage bar no longer resets when touching a resupply cabinet."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Fixed the Buff Banner not working when +reload has been forced in the console.",
+        "Fixed inconsistent Rage generation with the Buff Banner.",
+        "Fixed the player keeping their rage setting when the Buff Banner isn't equipped.",
+        "Fixed resupply cabinet not clearing the rage and the buff status effect."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Provides an offensive buff that causes nearby team members to do mini-crits."
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

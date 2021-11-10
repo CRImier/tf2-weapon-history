@@ -1,0 +1,220 @@
+{
+  "weapon": "Bonk! Atomic Punch",
+  "title": "Lunch Box",
+  "added": "2009-02-24",
+  "stats": {
+    "2017-10-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Drink to become invulnerable for 8 seconds. Cannot attack during this time.",
+        "Damage absorbed will slow you when the effect ends."
+      ],
+      "changes": [
+        "Apply a slow effect to the player after phasing wears off, based on the amount of damage they absorbed. Speed decreased by -25% at low damage, to -50% at 200+ damage. Lasts 5 seconds."
+      ]
+    },
+    "2016-08-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Updated the description of the Festive variant of Bonk! Atomic Punch."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2014-12-22": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-08-27": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2012-06-27": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 8 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Increased duration from 6 to 8 seconds."
+      ]
+    },
+    "2011-09-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Fixed Natascha's bullets preventing Scouts from using Bonk! Atomic Punch."
+      ]
+    },
+    "2011-08-23": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Added simplistic bot behaviors for Bonk! Atomic Punch."
+      ]
+    },
+    "2011-08-18": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Fixed the particle effect on Bonk! Atomic Punch draw animation not showing in censored version."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] The Bonk! Atomic Punch was added in the Atomizer crafting blueprint.",
+        "[Undocumented] The Bonk! Atomic Punch was added in the Soda Popper crafting blueprint."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] The Bonk! Atomic Punch was removed from the Dalokohs Bar's crafting blueprint."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Bonk! Atomic Punch now defaults to the primary weapon instead of the melee weapon when used."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] Scouts will always switch to a melee weapon upon drinking Bonk! Atomic Punch."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "[Undocumented] The Bonk! Atomic Punch was added to the crafting blueprint for the Crit-a-Cola, Bonk Helm, and Dalokohs Bar."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time."
+      ],
+      "changes": [
+        "Post-use movement penalty removed.",
+        "Now has a re-use cooldown time, like The Sandman."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time. Slows Scout to 56% speed for several seconds after effect ends."
+      ],
+      "changes": [
+        "Fixed the lack of phase effect while using this item."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time. Slows Scout to 56% speed for several seconds after effect ends."
+      ],
+      "changes": [
+        "Added recharge sound to abilities with a recharge bar."
+      ]
+    },
+    "2009-06-25": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time. Slows Scout to 56% speed for several seconds after effect ends."
+      ],
+      "changes": [
+        "Fixed Bonk! ammo count exploit after using a regeneration locker."
+      ]
+    },
+    "2009-04-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time. Slows Scout to 56% speed for several seconds after effect ends."
+      ],
+      "changes": [
+        "Scouts now drop the Intelligence if they're carrying it when they start phasing."
+      ]
+    },
+    "2009-02-24": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Drink to become invulnerable for 6 seconds. Cannot attack during this time. Slows Scout to 56% speed for several seconds after effect ends."
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

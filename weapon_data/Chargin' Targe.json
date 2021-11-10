@@ -1,0 +1,365 @@
+{
+  "weapon": "Chargin' Targe",
+  "title": "Shield",
+  "added": "2009-12-17",
+  "stats": {
+    "2015-12-17": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+30% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Charge toward your enemies and remove debuffs. Gain a critical melee strike after impacting an enemy at distance."
+      ],
+      "changes": [
+        "Melee damage boost after shield bash is based on amount of charge consumed. Now provides mini-crit at 25% depleted",
+        "and full crit at 60% depleted.",
+        "Charging now removes debuffs from the Demoknight",
+        "Reduced blast resistance from 40% to 30%.",
+        "Removed fire immunity."
+      ]
+    },
+    "2015-12-04": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Charge toward your enemies. Gain a critical melee strike after impacting an enemy at distance."
+      ],
+      "changes": [
+        "Fire resistance changed from 50% to 30% and explosion resistance changed from 40% to 30% before being reverted 90 minutes later."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Charge toward your enemies. Gain a critical melee strike after impacting an enemy at distance."
+      ],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2015-04-29": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed the Festive Targe not using the correct Blue team material."
+      ]
+    },
+    "2014-12-22": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2014-06-20": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed the Chargin' Targe doing impact damage at any range."
+      ]
+    },
+    "2014-04-01": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed framerate affecting player turn rate while using the shield charge."
+      ]
+    },
+    "2013-12-20": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Professional killstreak Chargin' Targes now generate proper effects when on a killstreak. These effects do not stack if another killstreak effect weapon is active."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-07-10": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer",
+        "Immune to the effects of afterburn"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Added Afterburn immunity."
+      ]
+    },
+    "2012-09-27": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed Demoman shields not reducing explosive damage in non-MvM games."
+      ]
+    },
+    "2012-09-21": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed the Demoman shields not saving their upgrades upon round reset in Mann vs. Machine."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed Demoman weapons primary/secondary being backwards in the loadout screen."
+      ]
+    },
+    "2011-09-16": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed the Demoman not being able to charge while in the air."
+      ]
+    },
+    "2011-09-15": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] The physics of charging with a shield as a Demoman have been altered."
+      ]
+    },
+    "2011-08-23": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Added simplistic bot behaviors for Chargin' Targe."
+      ]
+    },
+    "2011-06-28": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed a bug where Demomen kept their leftover charge amount when self-aborting charges (you'll still keep leftovers when stopped by enemy airblasts)."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Added Strange quality.",
+        "Fixed an exploit that allowed greater turning control than intentionally allowed.",
+        "[Undocumented] Demomen can now begin a charge while in midair.",
+        "[Undocumented] The charge meter is no longer fully depleted if the user is interrupted by a Compression Blast.",
+        "[Undocumented] The charge meter can now be refilled by resupply cabinets."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] The Chargin' Targe no longer protects players against their own explosive damage.",
+        "[Undocumented] The Chargin' Targe was added to the crafting blueprint for the Claidheamh Mòr."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] Updated the kill icon for the Chargin' Targe."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] The Chargin' Targe was added to the crafting blueprint for the Gunboats."
+      ]
+    },
+    "2010-04-29": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+40% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "[Undocumented] Further reduction of the explosive damage resistance on the Chargin' Targe to 40%.",
+        "[Undocumented] Changed the Chargin' Targe colors from team-colored to yellow for easier identification."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+50% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Direct charge hit now does 50 damage + 10 per head (up to 5 heads).",
+        "Capped the turn rate from +left and +right while charging."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+50% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Reduced the explosive damage resistance on the Chargin' Targe to 50%. The explosive damage resistance was 65% prior to the update."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+65% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Fixed the Chargin' Targe's crit not working on servers with tf_weapon_criticals 0."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "+50% fire damage resistance on wearer",
+        "+65% explosive damage resistance on wearer"
+      ],
+      "negative": [],
+      "neutral": [
+        "Alt-Fire: Gain increased attack power by charging toward your enemies."
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

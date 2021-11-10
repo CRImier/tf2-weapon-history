@@ -1,0 +1,303 @@
+{
+  "weapon": "Dalokohs Bar",
+  "title": "Lunch Box",
+  "added": "2010-03-18",
+  "stats": {
+    "2017-11-07": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Added the drop plate for the Dalokohs Bar."
+      ]
+    },
+    "2017-11-01": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed the bite bodygroup for the Dalokohs Bar."
+      ]
+    },
+    "2017-10-23": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed an exploit related to the Heavy's health and the G.R.U."
+      ]
+    },
+    "2017-10-20": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed some of the Heavy's edible secondary items not having the model update when the item is eaten."
+      ]
+    },
+    "2016-12-21": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Updated the Dalokohs Bar to fix a bug related to the health buff."
+      ]
+    },
+    "2015-10-06": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed an exploit related to The Dalokohs Bar."
+      ]
+    },
+    "2015-09-10": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed a bug where Strange Dalokohs Bars were incorrectly counting Allied Healing Done events as Allies Extinguished."
+      ]
+    },
+    "2015-08-28": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "The Dalokohs Bar can now accept Allies Extinguished strange parts."
+      ]
+    },
+    "2015-08-27": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "The Dalokohs Bar can now accept Ally Healing Done strange parts."
+      ]
+    },
+    "2015-07-08": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Fixed the Dalokohs Bar giving medium health kits when thrown. Now properly gives small health kits when thrown."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [
+        "Eat to gain up to 100 health.",
+        "Alt-fire: Share chocolate with a friend (Small Health Kit)"
+      ],
+      "changes": [
+        "Now has 10 second cool down on use.",
+        "Can now overheal up to 400 hp.",
+        "Can be thrown (alt-fire) as a small medkit for other player to use."
+      ]
+    },
+    "2015-04-29": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Strange Dalokohs Bar incorrectly counting food eaten."
+      ]
+    },
+    "2015-03-31": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Strange Dalokohs Bar not counting food eaten."
+      ]
+    },
+    "2015-03-12": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Added Strange quality."
+      ]
+    },
+    "2014-08-27": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Updated the materials for the Dalokohs Bar."
+      ]
+    },
+    "2014-08-21": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Updated the materials for the Dalokohs Bar.",
+        "[Undocumented] Updated the backpack image for the Dalokohs Bar."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-07-10": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Increased amount of health restored per-bite from 15 to 25."
+      ]
+    },
+    "2011-07-03": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Added community contributed response rules to the Dalokohs Bar."
+      ]
+    },
+    "2011-04-14": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Removed item cool down meter and ammo count when using the Dalokohs Bar."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "The crafting cost of the Dalokohs Bar was changed from a Bonk! Atomic Punch and a Sandvich to 1 Scrap Metal and a Sandvich."
+      ]
+    },
+    "2010-10-06": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Fixed the cooldown not occurring when the Heavy is hurt."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Removed the cooldown timer from the Dalokohs Bar when eating."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "A cooldown bar now dictates when the Dalokohs Bar can be consumed."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The crafting blueprint for the Dalokohs Bar was added to the game."
+      ]
+    },
+    "2010-03-18": {
+      "positive": [
+        "Adds +50 max health for 30 seconds"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The crafting blueprint for the Dalokohs Bar was added to the game."
+      ]
+    }
+  }
+}

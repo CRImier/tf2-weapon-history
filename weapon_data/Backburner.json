@@ -1,0 +1,357 @@
+{
+  "weapon": "Backburner",
+  "title": "Flame Thrower",
+  "added": "2008-06-19",
+  "stats": {
+    "2018-03-28": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Flame damage per second now ramps up based on density of flame encountered, up to 200%.",
+        "Initial flame damage per second reduced by 50%, resulting in the max damage being unchanged.",
+        "Fixed Flamethrower particles sometimes failing to draw on the client.",
+        "Fixed Flamethrower flames not colliding with tf_generic_bomb entities.",
+        "Fixed a server crash related to the Flamethrower."
+      ]
+    },
+    "2017-12-13": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a bug with the Backburner using its owner's angle to determine whether the attack is behind the victim."
+      ]
+    },
+    "2017-11-07": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed not seeing the new flamethrower effects on some machines."
+      ]
+    },
+    "2017-10-20": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Flamethrowers no longer apply maximum-duration afterburn on contact. Afterburn duration is now based on how long the target is in contact with direct flames.",
+        "Better visual sync",
+        "more consistent (no visuals/damage mismatch).",
+        "New particle effects.",
+        "Made airblast more consistent."
+      ]
+    },
+    "2016-07-07": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added: Direct damage reduces Medi Gun healing and resist shield effects by 25%",
+        "Medics hear a \"healing interrupted\" sound when this is happening to their heal target."
+      ]
+    },
+    "2016-04-25": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Festive Backburner missing the pilot light."
+      ]
+    },
+    "2016-02-02": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated the Backburner to add the pilot light."
+      ]
+    },
+    "2016-01-07": {
+      "positive": [
+        "100% critical hits from behind",
+        "Extinguishing teammates restores 20 health"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Updated 20 health restoration when used to extinguish a burning teammate from neutral attribute to positive attribute."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [
+        "Extinguishing teammates restores 20 health"
+      ],
+      "changes": [
+        "The base Flamethrower's damage fall off over distance has been decreased, resulting in higher damage output at range.",
+        "Extinguishing a teammate will now return 20 health to the Pyro."
+      ]
+    },
+    "2014-12-22": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festive variant.",
+        "[Undocumented] Updated the Backburner model to use the c_models system."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-06-27": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Removed +10% damage bonus attribute.",
+        "Note: Because of the base damage increase by 10%",
+        "damage remains unchanged."
+      ]
+    },
+    "2012-01-11": {
+      "positive": [
+        "100% critical hits from behind",
+        "+10% damage bonus"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Backburner was added to the crafting blueprint for the Phlogistinator."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "100% critical hits from behind",
+        "+10% damage bonus"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The damage bonus attribute was changed from \"+10% damage done\" to \"+10% damage bonus\"."
+      ]
+    },
+    "2011-07-12": {
+      "positive": [
+        "100% critical hits from behind",
+        "+10% damage done"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Item schema update] Added Strange quality."
+      ]
+    },
+    "2011-04-14": {
+      "positive": [
+        "100% critical hits from behind",
+        "+10% damage done"
+      ],
+      "negative": [
+        "+150% airblast cost"
+      ],
+      "neutral": [],
+      "changes": [
+        "Removed the restriction on airblast.",
+        "Airblast ammo cost increased 150%.",
+        "Damage bonus reduced to 10%."
+      ]
+    },
+    "2011-02-07": {
+      "positive": [
+        "100% critical hits from behind",
+        "+15% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed burning deaths to always use the death notice icon for the weapon that started the burn."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [
+        "100% critical hits from behind",
+        "+15% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model (the dragon attachment) with optimizations and LODs."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "100% critical hits from behind",
+        "+15% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Backburner was assigned a unique kill icon.",
+        "[Undocumented] Fixed players claiming health by switching to the Powerjack as the enemy dies from burn damage from the Flamethrower."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "100% critical hits from behind",
+        "+15% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Backburner was added to the crafting blueprint for the Degreaser."
+      ]
+    },
+    "2010-05-19": {
+      "positive": [
+        "100% critical hits from behind",
+        "+15% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Reduced Backburner damage bonus from 20% to 15%."
+      ]
+    },
+    "2010-04-29": {
+      "positive": [
+        "100% critical hits from behind",
+        "+20% damage done"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added a 20% damage bonus to the Backburner."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added firing sounds to the Backburner."
+      ]
+    },
+    "2008-07-29": {
+      "positive": [
+        "100% critical hits from behind"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Removed health bonus from the Backburner."
+      ]
+    },
+    "2008-07-01": {
+      "positive": [
+        "100% critical hits from behind",
+        "+50 max health"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Backburner's flame critical hits not being recalculated after collision. This meant that it would check if the target was looking away once and after that the flame could score a critical hit again even if the orientation changed."
+      ]
+    },
+    "2008-06-19": {
+      "positive": [
+        "100% critical hits from behind",
+        "+50 max health"
+      ],
+      "negative": [
+        "No compression blast"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

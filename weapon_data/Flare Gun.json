@@ -1,0 +1,171 @@
+{
+  "weapon": "Flare Gun",
+  "title": "Flare Gun",
+  "added": "2008-06-19",
+  "stats": {
+    "2017-10-20": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [],
+      "neutral": [
+        "This weapon will reload when not active"
+      ],
+      "changes": [
+        "Flare guns now apply 7.5 seconds of afterburn (down from 10 seconds).",
+        "Per-tick afterburn damage increased to 4",
+        "for a total of 8 damage per-second."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [],
+      "neutral": [
+        "This weapon will reload when not active"
+      ],
+      "changes": [
+        "Updated description to better detail the weapon's features.",
+        "Added text to describe 100% critical hits on burning targets."
+      ]
+    },
+    "2013-12-20": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "[Undocumented] Added Festive variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2011-08-23": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Refined reload force for Flare Gun."
+      ]
+    },
+    "2011-07-12": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "[Item schema update] Added Strange quality."
+      ]
+    },
+    "2011-06-23": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "[Undocumented] This weapon was added to the crafting blueprint for the Detonator."
+      ]
+    },
+    "2011-04-14": {
+      "positive": ["[Hidden] 100% critical hit vs burning players"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "[Undocumented] Changed Flare Gun flares to always crit burning targets",
+        "regardless of range."
+      ]
+    },
+    "2011-02-07": {
+      "positive": ["[Hidden] 100% critical hit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed burning deaths to always use the death notice icon for the weapon that started the burn."
+      ]
+    },
+    "2011-02-03": {
+      "positive": ["[Hidden] 100% critical hit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2010-05-19": {
+      "positive": ["[Hidden] 100% critical hit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Flares that hit a burning player at mid-to-long range will crit."
+      ]
+    },
+    "2010-04-29": {
+      "positive": ["[Hidden] 100% mini-crit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed the Flare Gun's afterburn duration being lowered by the Flamethrower's duration reduction."
+      ]
+    },
+    "2010-02-23": {
+      "positive": ["[Hidden] 100% mini-crit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed the Pyro not being able to deflect enemy flares."
+      ]
+    },
+    "2009-08-31": {
+      "positive": ["[Hidden] 100% mini-crit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed Pyro's Hadouken killing Scouts that have used Bonk! and are phasing."
+      ]
+    },
+    "2009-06-08": {
+      "positive": ["[Hidden] 100% mini-crit vs burning players at mid-long range"],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Flare Gun will now mini-crit on a burning enemy."
+      ]
+    },
+    "2009-02-02": {
+      "positive": [],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Increased flare direct hit damage from 20 to 30."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed bug where switching from Flare Gun-wielding Pyro to another class meant you didn't get a full ammo loadout on first spawn."
+      ]
+    },
+    "2008-06-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Fixed Flare Gun trail particles on DX8."
+      ]
+    },
+    "2008-06-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": ["[Hidden] This weapon will reload when not active"],
+      "changes": [
+        "Introduced"
+      ]
+    }
+  }
+}

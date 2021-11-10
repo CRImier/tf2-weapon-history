@@ -1,0 +1,190 @@
+{
+  "weapon": "Homewrecker",
+  "title": "Sledgehammer",
+  "added": "2010-03-18",
+  "stats": {
+    "2015-07-02": {
+      "positive": [
+        "+100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2014-07-30": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed teammates blocking the removal of Sappers when using the Homewrecker",
+        "Maul",
+        "and Neon Annihilator."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-10-09": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange variant."
+      ]
+    },
+    "2012-08-03": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Fixed the Homewrecker not destroying Red-Tape Recorder Sappers in one hit."
+      ]
+    },
+    "2012-06-23": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Homewrecker was added to the crafting blueprint for the Family Business."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The crafting cost of the Homewrecker was changed from an Eyelander and a Equalizer to 1 Scrap Metal and a Equalizer."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Homewrecker was added in the crafting blueprint for the Claidheamh Mòr."
+      ]
+    },
+    "2010-11-19": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Homewrecker is now capable of removing Electro Sappers from both ends of a Teleporter with a single swing."
+      ]
+    },
+    "2010-05-27": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Homewrecker was given a unique kill icon."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added crafting blueprint for the Homewrecker."
+      ]
+    },
+    "2010-05-07": {
+      "positive": [
+        "100% damage vs buildings",
+        "Damage removes Sappers"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Homewrecker now damages enemy Sappers on friendly buildings."
+      ]
+    },
+    "2010-03-18": {
+      "positive": [
+        "100% damage vs buildings"
+      ],
+      "negative": [
+        "-25% damage vs players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

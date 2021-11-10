@@ -1,0 +1,164 @@
+{
+  "weapon": "Pain Train",
+  "title": "Makeshift Club",
+  "added": "2010-03-18",
+  "stats": {
+    "2018-03-28": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed not being able to inspect the Pain Train in-game."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-09-04": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Pain Train now uses Equalizer sounds."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Pain Train now uses the Grenade Launcher's taunt."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added new community contributed response rules to the Pain Train.",
+        "[Undocumented] Removed the taunt from Demoman. (Previously the Pain Train shared the Bottle taunt.)"
+      ]
+    },
+    "2011-04-15": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Pain Train was added to the crafting blueprint for the Ullapool Caber."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Pain Train was added to the crafting blueprint for the Candy Cane."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Melee weapons no longer do increased damage to players equipped with the Pain Train."
+      ]
+    },
+    "2010-05-27": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Pain Train was given a unique kill icon."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added crafting recipe for the Pain Train."
+      ]
+    },
+    "2010-03-18": {
+      "positive": [
+        "+1 capture rate on wearer"
+      ],
+      "negative": [
+        "10% bullet damage vulnerability on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

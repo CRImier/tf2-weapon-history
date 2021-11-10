@@ -1,0 +1,257 @@
+{
+  "weapon": "Huntsman",
+  "title": "Bow",
+  "added": "2009-05-21",
+  "stats": {
+    "2017-10-24": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the afterburn duration for the Huntsman."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Snipers can now fire the Huntsman mid-air."
+      ]
+    },
+    "2015-07-03": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed an issue that prevented Huntsman arrows from damaging enemy Engineer buildings."
+      ]
+    },
+    "2014-07-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Huntsman not firing after being charged in the air and landing on the ground while using cl_autoreload."
+      ]
+    },
+    "2014-04-01": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Huntsman charge bar being misaligned."
+      ]
+    },
+    "2013-01-16": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Added The Festive Huntsman to the list of items allowed in Medieval Mode."
+      ]
+    },
+    "2013-01-08": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed Festive Huntsman not completing a set when equipped."
+      ]
+    },
+    "2012-12-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed Festive Huntsman arrows using incorrect hit boxes."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2012-10-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed floating arrows on carried objects."
+      ]
+    },
+    "2012-05-03": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added the Dual-Purpose Fruit set.",
+        "[Undocumented] The Huntsman was added to the crafting blueprint for the Fruit Shoot."
+      ]
+    },
+    "2012-03-22": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange Quality."
+      ]
+    },
+    "2012-03-01": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Refined Huntsman recoil forces."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Added new community contributed response rules to the Huntsman."
+      ]
+    },
+    "2011-05-05": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added a voice response for the Skewer taunt."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The crafting cost for the Crusader's Crossbow was reduced from two Reclaimed Metal and Huntsman to two Scrap Metal and Huntsman."
+      ]
+    },
+    "2011-01-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed being able to attack teammates using pumpkin bombs and arrows fired.",
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Huntsman was added to the crafting blueprint for the Crusader's Crossbow."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the arrow burning effect getting stuck on if player changed class in a respawn room with arrow lit."
+      ]
+    },
+    "2010-11-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed not being able to light arrows after the first arrow is fired unless they're drawn back."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Huntsman was added to the crafting blueprint for the Sydney Sleeper."
+      ]
+    },
+    "2010-05-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Huntsman was added to the crafting blueprint for the Tribalman's Shiv."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Removed restriction that arrows need to be aimed before they can be lit by a Pyro.",
+        "Bow can now be lowered without losing the lit arrow.",
+        "Changed bow so you can start charging it while you're jumping, but you can't fire until you're on the ground.",
+        "Fixed bug where flame effect would get stuck on if you change weapons with a lit arrow."
+      ]
+    },
+    "2009-12-18": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed a client crash related to arrows."
+      ]
+    },
+    "2009-09-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed Sniper using the reference pose if he has the Huntsman deployed when his team loses.",
+        "Fixed Huntsman not firing crit arrows when the Sniper is critboosted.",
+        "Fixed being able to fire the Huntsman under water if you jump into the water with the arrow charged."
+      ]
+    },
+    "2009-08-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed a couple of issues with the way critboosts affected the Huntsman.",
+        "Fixed an exploit where you could reload this weapon faster than intended."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Critical arrows now have a trail and correctly deal enhanced damage.",
+        "The Huntsman now defaults to be right handed.",
+        "Friendly arrows will no longer trigger the near miss sound on you."
+      ]
+    },
+    "2009-06-08": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Huntsman drawing a muzzle flash under lagged conditions."
+      ]
+    },
+    "2009-05-29": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed players killed by flaming arrows not showing the appropriate kill icon."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

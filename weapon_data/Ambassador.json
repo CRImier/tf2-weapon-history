@@ -1,0 +1,265 @@
+{
+  "weapon": "Ambassador",
+  "title": "Revolver",
+  "added": "2009-05-21",
+  "stats": {
+    "2017-10-20": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "No random critical hits",
+        "Critical damage is affected by range"
+      ],
+      "neutral": [],
+      "changes": [
+        "Headshot damage is now subjected to distance falloff effects.",
+        "Headshots beyond 1200 world units do normal non-crit damage."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2014-02-07": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated the Blue team material for the Ambassador to be less red."
+      ]
+    },
+    "2013-11-21": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Australium variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2012-12-21": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated the backpack icon for the Festive Ambassador."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage penalty",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The damage penalty attribute was changed from \"-15% damage done\" to \"-15% damage penalty\"."
+      ]
+    },
+    "2011-07-12": {
+      "positive": [
+        "Crits on an accurate headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Item schema update] Added Strange quality."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "Crits on an accurate headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Crafting cost for the Southern Hospitality was reduced from two Scrap Metal + Ambassador to one Scrap Metal + Ambassador."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [
+        "Crits on an accurate headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model with optimizations and new LODs."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "Crits on an accurate headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Ambassador was added in the crafting blueprint for the Southern Hospitality.",
+        "[Undocumented] The Ambassador's headshot kill icon was changed to match the Sniper Rifle's headshot kill icon."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [
+        "Crits on an accurate headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Ambassador now only crits when fully accurate (after cooldown) and no longer penetrates enemies."
+      ]
+    },
+    "2009-06-08": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ambassador not shooting enemy sticky bombs."
+      ]
+    },
+    "2009-05-29": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ambassador not doing damage to buildings."
+      ]
+    },
+    "2009-05-26": {
+      "positive": [
+        "Crits on headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Ambassador now does full critical hits on headshots",
+        "instead of mini-crits."
+      ]
+    },
+    "2009-05-22": {
+      "positive": [
+        "Mini-crits on headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ambassador not using hitboxes to trace against players.",
+        "Fixed the Ambassador shooting through gates.",
+        "Fixed the Ambassador not critting during the round win period."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [
+        "Mini-crits on headshot"
+      ],
+      "negative": [
+        "-15% damage done",
+        "20% slower firing speed",
+        "[Hidden] No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

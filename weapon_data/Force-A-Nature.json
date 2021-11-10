@@ -1,0 +1,425 @@
+{
+  "weapon": "Force-A-Nature",
+  "title": "Scattergun",
+  "added": "2009-02-24",
+  "stats": {
+    "2015-07-02": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2014-09-10": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed the Festive Force-A-Nature using the wrong taunt animation.",
+        "[Undocumented] Fixed Scout not using specific voice responses while \"force jumping\" with Festive Force-A-Nature."
+      ]
+    },
+    "2013-12-20": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] Added Festive variant."
+      ]
+    },
+    "2013-11-26": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed missing backpack material for the Australium Force-A-Nature."
+      ]
+    },
+    "2013-11-21": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] Added Australium variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Made Force-A-Nature pushback more consistent."
+      ]
+    },
+    "2012-09-04": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-66% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Increased the clip size penalty from -60% to -66%.",
+        "[Undocumented] Added Strange variant."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage penalty",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] The damage penalty attribute was changed from \"-10% damage done\" to \"-10% damage penalty\"."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] The Force-A-Nature was added in the Soda Popper's crafting blueprint."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] The Force-A-Nature no longer clips into itself or shows shells hovering outside."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed the Force-A-Nature not drawing correctly in the character loadout screen."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "The Force-A-Nature was added in the Shortstop's crafting blueprint."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "[Undocumented] The Force-A-Nature received its own kill icon."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "The Force-A-Nature now correctly knocks back players on the ground.",
+        "The minimum damage required for the Force-A-Nature to cause a knockback was increased from 30 to 40."
+      ]
+    },
+    "2010-01-07": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed grounded players receiving falling damage from shots fired directly above them.",
+        "Fixed the Force-A-Nature firing fewer pellets when tf_use_fixed_weaponspreads was 1."
+      ]
+    },
+    "2010-01-06": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Knockback now only occurs when the shots deal more than 30 damage and the enemy is in close range.",
+        "The angle of the Force-A-Nature when fired determines the knockback.",
+        "It no longer affects grounded targets as much."
+      ]
+    },
+    "2009-08-13": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Knockback now only works in close range, similar to the compression blast.",
+        "The effect can no longer be used to juggle enemies.",
+        "Self-knockback is altered to respect the Scout's view angle.",
+        "Knockback became scaled by an indeterminate amount of damage done."
+      ]
+    },
+    "2009-06-25": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "The previous patch was reverted; knockback now affects Disguised Spies again."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "The knockback effect no longer affects Disguised Spies."
+      ]
+    },
+    "2009-06-08": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-10% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "The Force-A-Nature's damage was increased by 10%."
+      ]
+    },
+    "2009-05-26": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-20% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed kill description for Force-A-Nature",
+        "so server logs can distinguish them."
+      ]
+    },
+    "2009-02-25": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-20% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Fixed the Force-A-Nature's description not fitting inside the item window."
+      ]
+    },
+    "2009-02-24": {
+      "positive": [
+        "+50% faster firing speed",
+        "Knockback on the target and shooter",
+        "+20% bullets per shot"
+      ],
+      "negative": [
+        "-20% damage done",
+        "-60% clip size"
+      ],
+      "neutral": [
+        "[Hidden] This weapon reloads its entire clip at once"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

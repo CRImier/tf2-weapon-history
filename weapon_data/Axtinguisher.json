@@ -1,0 +1,224 @@
+{
+  "weapon": "Axtinguisher",
+  "title": "Fire Axe",
+  "added": "2008-06-19",
+  "stats": {
+    "2019-03-26": {
+      "positive": [
+        "Mini-crits burning targets and extinguishes them",
+        "Damage increases based on remaining duration of afterburn",
+        "Killing blows on burning players grant a speed boost"
+      ],
+      "negative": [
+        "-33% damage penalty",
+        "No random critical hits",
+        "This weapon holsters 35% slower"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Removed reference to Sketchek from the Axtinguisher."
+      ]
+    },
+    "2018-03-28": {
+      "positive": [
+        "Mini-crits burning targets and extinguishes them",
+        "Damage increases based on remaining duration of afterburn",
+        "Sketchek's Bequest: Killing blows on burning players grant a speed boost"
+      ],
+      "negative": [
+        "-33% damage penalty",
+        "No random critical hits",
+        "This weapon holsters 35% slower"
+      ],
+      "neutral": [],
+      "changes": [
+        "Weapon reworked."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-33% damage penalty",
+        "20% slower firing speed",
+        "This weapon deploys 75% slower",
+        "No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Weapon reworked."
+      ]
+    },
+    "2014-06-18": {
+      "positive": [
+        "100% critical hits burning players from behind",
+        "Mini-crits burning players from the front."
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No random critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Axtinguisher now does mini-crit damage from the front and full crit damage from behind to burning targets."
+      ]
+    },
+    "2013-11-21": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Australium variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-03-27": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Festive Axtinguisher sometimes floating in the world after death."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2012-01-11": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Axtinguisher was added in the crafting blueprint for the Third Degree."
+      ]
+    },
+    "2011-09-20": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Axtinguisher was added in the crafting blueprint for the Sharpened Volcano Fragment."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Axtinguisher was added in the crafting blueprint for the Back Scratcher."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Axtinguisher was added in the crafting blueprint for the Powerjack."
+      ]
+    },
+    "2010-05-20": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Axtinguisher was added in the crafting blueprint for the Scotsman's Skullcutter."
+      ]
+    },
+    "2008-06-19": {
+      "positive": [
+        "100% critical hit vs burning players"
+      ],
+      "negative": [
+        "-50% damage vs non-burning players",
+        "No critical hits vs non-burning players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

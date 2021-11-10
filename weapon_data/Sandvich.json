@@ -1,0 +1,310 @@
+{
+  "weapon": "Sandvich",
+  "title": "Lunch Box",
+  "added": "2008-08-19",
+  "stats": {
+    "2017-12-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Fixed the Festive Sandvich not showing the bite mark when eaten."
+      ]
+    },
+    "2017-12-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Fixed the Festive Sandvich not counting towards the Heavy achievement \"Konspicuous Konsumption\"."
+      ]
+    },
+    "2017-10-24": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Fixed the charge meter for the Sandvich not resetting to 100% when the player picks up a health kit."
+      ]
+    },
+    "2017-10-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Fixed some of the Heavy's edible secondary items not having the model update when the item is eaten."
+      ]
+    },
+    "2016-07-07": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Added Strange quality."
+      ]
+    },
+    "2015-09-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Strange Sandviches can now accept Allies Extinguished strange parts."
+      ]
+    },
+    "2015-07-08": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Fixed an issue with the Sandvich where consuming it at full health would consume it forever."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Eat to regain up to 300 health.",
+        "Alt-fire: Share a Sandvich with a friend (Medium Health Kit)"
+      ],
+      "changes": [
+        "Updated description to note that lunchbox items can be thrown (alt-fire) to supply players with a medkit."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-01-16": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "Fixed Strange Festive Sandvich not always tracking usage.",
+        "Added Festive Sandvich to the list of items allowed in Medieval mode."
+      ]
+    },
+    "2012-12-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "Fixed Strange Festive Sandviches leveling up multiple times in a single use."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2012-07-05": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "Fixed The Sandvich and The Buffalo Steak Sandvich using the wrong models when thrown."
+      ]
+    },
+    "2012-02-14": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit)."
+      ],
+      "changes": [
+        "Updated the Heavy's Sandvich so it will only resupply ammo if the owner picks it up after dropping it. This means the only way to gain health from the Sandvich is by eating it."
+      ]
+    },
+    "2011-08-23": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Added simplistic bot behaviors for the Sandvich."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "[Undocumented] The crafting blueprint for the Dalokohs Bar was changed from Bonk! Atomic Punch and Sandvich to one Scrap Metal and Sandvich.",
+        "[Undocumented] The crafting blueprint for the Buffalo Steak Sandvich was changed from Crit-a-Cola and Sandvich to one Reclaimed Metal and Sandvich."
+      ]
+    },
+    "2011-03-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "[Undocumented] The Sandvich was added to the crafting blueprint for the Buffalo Steak Sandvich."
+      ]
+    },
+    "2010-10-27": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Fixed the Sandvich charge meter."
+      ]
+    },
+    "2010-10-06": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Fixed the Sandvich cooldown not occurring when the Heavy is hurt."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "[Undocumented] Removed the cooldown timer from the Sandvich and the Dalokohs Bar when eating."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "The Sandvich now uses a cooldown timer",
+        "instead of the health pack recharge mechanic."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "[Undocumented] The Sandvich was added to the crafting blueprint for the Dalokohs Bar."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Throwing a Sandvich to a teammate now earns a full bonus point (was half a point)."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Fixed the Heavy picking up his own thrown Sandvich if it was thrown while running forward."
+      ]
+    },
+    "2009-10-14": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Added 1/2 Bonus Point for healing a teammate with a dropped Sandvich.",
+        "Fixed being able to eat your Sandvich (via taunt) and drop it in the same frame.",
+        "Fixed thrown Sandvich traveling through players before being activated.",
+        "Fixed Sandviches sometimes spawning inside walls, or being thrown through thin walls."
+      ]
+    },
+    "2009-09-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "[Hidden] Alt-fire: Share a Sandvich with a friend (Medium Health Kit). Own sandvich heals for 50%."
+      ],
+      "changes": [
+        "Alt-fire on the Sandvich now drops Sandviches.",
+        "Dropping the Sandvich removes it from the Heavy.",
+        "A Heavy can regain his Sandvich by collecting a healthkit while already being at full health.",
+        "Eating a Sandvich using the taunt method now heals a Heavy to full health."
+      ]
+    },
+    "2009-02-25": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Players with full health can now pick up dropped Sandviches."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Introduced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "weapon": "Ubersaw",
+  "title": "Bonesaw",
+  "added": "2008-04-29",
+  "stats": {
+    "2017-12-21": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added 2nd Festive variant, obtained via Festivizing the Ubersaw."
+      ]
+    },
+    "2017-10-24": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated The Ubersaw to support the Cool, Hot, and Isotope Unusual effects."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Taunt can now be activated by alt-fire."
+      ]
+    },
+    "2013-10-02": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ubersaw taunt attack using the incorrect deathnotice image."
+      ]
+    },
+    "2012-12-20": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festive variant."
+      ]
+    },
+    "2012-04-27": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed damage to buildings applying on-hit effects such as the Ubersaw charge."
+      ]
+    },
+    "2012-04-17": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Ubersaw will now grant ÜberCharge when striking an Engineer Building."
+      ]
+    },
+    "2011-10-25": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange Quality."
+      ]
+    },
+    "2011-06-10": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ubersaw not displaying a Medic's ÜberCharge progress."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added community contributed response rules to the Ubersaw."
+      ]
+    },
+    "2011-05-05": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added a voice response for the Spinal Tap."
+      ]
+    },
+    "2011-04-14": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] A successful Spinal Tap kill now fills a Medic's ÜberCharge 100%."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The crafting cost of the Vita-Saw was reduced from one Reclaimed Metal + Ubersaw to two Scrap Metal + Ubersaw."
+      ]
+    },
+    "2011-03-10": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Ubersaw was added in the crafting blueprint for the Vita-Saw."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Changed the taunt to Spinal Tap."
+      ]
+    },
+    "2009-08-17": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Ubersaw not displaying team colors."
+      ]
+    },
+    "2009-08-13": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Disguised Spies no longer trigger On-Hit effects."
+      ]
+    },
+    "2008-04-29": {
+      "positive": [
+        "On Hit: 25% ÜberCharge added"
+      ],
+      "negative": [
+        "20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

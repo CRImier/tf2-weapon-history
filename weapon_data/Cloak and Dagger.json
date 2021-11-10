@@ -1,0 +1,142 @@
+{
+  "weapon": "Cloak and Dagger",
+  "title": "Invis Watch",
+  "added": "2009-05-21",
+  "stats": {
+    "2015-12-17": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "No cloak meter from ammo boxes when invisible",
+        "-35% cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive",
+        "Alt-Fire: Turn invisible. Cannot attack while invisible. Bumping in to enemies will make you slightly visible to enemies.",
+        "Cloak drain rate based on movement speed"
+      ],
+      "changes": [
+        "Updated weapon description to better detail functionality.",
+        "The HUD 'Cloak' meter now displays 'MOTION' when Cloak and Dagger is equipped."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "No cloak meter from ammo boxes when invisible",
+        "-35% cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive",
+        "Cloak drain rate based on movement speed"
+      ],
+      "changes": [
+        "Can now pick up ammo kits for cloak meter while visible.",
+        "Cloak gain from ammo pickup is 35% less when compare with Invis Watch."
+      ]
+    },
+    "2015-03-12": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "Added Strange quality."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "[Undocumented] The Cloak and Dagger was added to the crafting blueprint for Your Eternal Reward."
+      ]
+    },
+    "2009-12-18": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "Fixed the Spy's unlockables watches using the wrong consume/recharge rates."
+      ]
+    },
+    "2009-07-14": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "Fixed the Cloak and Dagger not regenerating at the correct rate."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [
+        "+100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "The Cloak and Dagger now always regenerates at its intended rate. Previously it only regenerated at the correct rate when the Spy was cloaked.",
+        "Increased the Cloak and Dagger's regeneration rate slightly.",
+        "Capped the rate of energy loss from moving faster than run speed (falling / air toss) while cloaked with the Cloak and Dagger."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [
+        "[Hidden] +100% cloak regen rate"
+      ],
+      "negative": [
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Motion Sensitive"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

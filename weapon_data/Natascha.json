@@ -1,0 +1,339 @@
+{
+  "weapon": "Natascha",
+  "title": "Minigun",
+  "added": "2008-08-19",
+  "stats": {
+    "2017-10-20": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+20% damage resistance when below 50% health and spun up"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "The 1-second damage and accuracy penalty now applies to the first second of spun-up time, whether or not the Heavy is firing."
+      ]
+    },
+    "2016-12-21": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+20% damage resistance when below 50% health and spun up"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festivized variant."
+      ]
+    },
+    "2016-07-07": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+20% damage resistance when below 50% health and spun up"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "20% damage resistance now only applies when spun up and below 50% max health."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+20% damage resistance when spun up"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Minigun damage penalty on Level 2 and Level 3 Sentry Guns slightly decreased. 20% -> 15% and 33% -> 20%",
+        "Added 20% damage resistance while spun up.",
+        "Stun amount now has distance falloff.",
+        "[Undocumented] Removed +50% max primary ammo on wearer.",
+        "[Undocumented] Updated model to c_model system."
+      ]
+    },
+    "2015-02-11": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+50% max primary ammo on wearer"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed not being able to switch away from the Minigun while spinning down."
+      ]
+    },
+    "2014-07-08": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+50% max primary ammo on wearer"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Winding up via secondary attack now counts toward reducing the one-second accuracy penalty."
+      ]
+    },
+    "2014-06-18": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+50% max primary ammo on wearer"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "All mini-guns now have damage and accuracy ramp up after they start firing. Full accuracy and damage is reached 1 second after firing."
+      ]
+    },
+    "2014-03-05": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+50% max primary ammo on wearer"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Natascha using the wrong material for the viewmodel."
+      ]
+    },
+    "2014-02-07": {
+      "positive": [
+        "On Hit: 100% chance to slow target",
+        "+50% max primary ammo on wearer"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added +50% max primary ammo on wearer."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2011-09-15": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Natascha's bullets preventing Scouts from using Bonk and Crit-a-Cola."
+      ]
+    },
+    "2011-07-23": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage penalty",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The damage penalty attribute was changed from \"-25% damage done\" to \"-25% damage penalty\"."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added community contributed response rules to this weapon."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The spin-up and spin-down animations of the Heavy's miniguns were changed."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The weapon was added to the crafting blueprint for the Brass Beast."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done",
+        "30% slower spin up time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Spin-up time increased.",
+        "Slowdown-on-hit effect is reduced over distance."
+      ]
+    },
+    "2010-11-19": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a Heavy exploit that let him run at full speed while shooting."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Natascha was given its own kill icon."
+      ]
+    },
+    "2009-03-13": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Natascha's chain not being drawn on the view model.",
+        "Fixed stun code regression that resulted in a subtle reduction of Natascha's slowdown effect."
+      ]
+    },
+    "2009-03-05": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a bug that caused Natascha's slow on hit effect to be inverted from 75% to 25%."
+      ]
+    },
+    "2009-02-16": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Removed Natascha's ammo belt in first person view model."
+      ]
+    },
+    "2009-02-02": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Rewrote Natascha's slowdown code to be more consistent."
+      ]
+    },
+    "2009-01-28": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Natascha not getting the proper 75% of damage and slightly increased the strength of Natascha's slowdown."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [
+        "On Hit: 100% chance to slow target"
+      ],
+      "negative": [
+        "-25% damage done"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

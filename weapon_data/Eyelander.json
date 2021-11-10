@@ -1,0 +1,221 @@
+{
+  "weapon": "Eyelander",
+  "title": "Sword",
+  "added": "2009-12-17",
+  "stats": {
+    "2015-12-17": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range and deploys and holsters slower",
+        "Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "All swords received increased deploy and holster time.",
+        "[Undocumented] Description updated."
+      ]
+    },
+    "2013-12-20": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] Added Festive variant."
+      ]
+    },
+    "2013-11-21": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Moved the eye glow position to Demoman’s eye patch. Changed the color to Cursed green.",
+        "[Undocumented] Added Australium variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-10-29": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] Claiming heads with the Eyelander will make the Demoman's eye glow green."
+      ]
+    },
+    "2011-12-21": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Fixed missing forces for Demoman swords."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-04-15": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] Replaced the -25% damage attribute with no-crit."
+      ]
+    },
+    "2011-04-14": {
+      "positive": [],
+      "negative": [
+        "-25% damage done",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Replaced the no-crit attribute with -25% damage on the Eyelander."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] The Eyelander was removed from the crafting blueprint for the Homewrecker.",
+        "[Undocumented] The Eyelander was added in the crafting blueprint for the Half-Zatoichi."
+      ]
+    },
+    "2011-03-11": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Fixed the decapitation counters not being displayed for some weapons.",
+        "Fixed the Demoman not using the correct animations for some of his weapons.",
+        "[Undocumented] Changed the way the Demoman holds the Eyelander in the loadout screen to using two hands instead of one."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2010-09-20": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] The Eyelander was added in the crafting blueprint for the Bushwacka."
+      ]
+    },
+    "2010-06-10": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "[Undocumented] The Eyelander now collects the heads inside Eyelanders of Demomen it decapitates."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [],
+      "negative": [
+        "No random critical hits",
+        "-25 max health on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range. Gives increased speed and health with every head you take"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

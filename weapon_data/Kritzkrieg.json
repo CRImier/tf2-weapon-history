@@ -1,0 +1,352 @@
+{
+  "weapon": "Kritzkrieg",
+  "title": "Medi Gun",
+  "added": "2008-04-29",
+  "stats": {
+    "2016-12-21": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Added Festivized variant."
+      ]
+    },
+    "2016-09-12": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed Medics getting the Demoman's charging speed when using Mediguns other than the Quick-Fix."
+      ]
+    },
+    "2016-07-07": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "All Mediguns allow the Medic to match the speed of their heal target.",
+        "A dropped Mediguns's stored ÜberCharge begins to decay over time after coming to rest."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "During setup time",
+        "ÜberCharge build rate is now increased by 3x."
+      ]
+    },
+    "2015-07-06": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "During setup time",
+        "ÜberCharge build rate is now increased by 3x."
+      ]
+    },
+    "2015-07-03": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed Kritzkrieg not rendering its attachment."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2013-07-02": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed a case where a Medic deploying Kritzkrieg on a Spy would sometimes result in permanent crit boost."
+      ]
+    },
+    "2012-09-21": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Mann vs. Machine: Fixed overheal duration attribute causing the overheal effect to decay faster, rather than slower."
+      ]
+    },
+    "2012-08-10": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed a Medi Gun exploit that could leave players indefinitely invulnerable.",
+        "This was fixed by making the Medic unable to heal people with his secondary weapon while taunting or using the Meet the Medic, Director's Vision, Schadenfreude, or High Five!."
+      ]
+    },
+    "2012-03-22": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "[Undocumented] Changed equip region to \"Medi Gun Backpack\"."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "[Undocumented] Added Strange Quality."
+      ]
+    },
+    "2011-08-03": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed a case where health overheal wasn't being applied when multiple healers were involved."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Added community-contributed response rules to the Kritzkrieg."
+      ]
+    },
+    "2011-05-05": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the Kritzkrieg not drawing the correct model in the character loadout screen.",
+        "[Undocumented] Added community-contributed voice responses for the Oktoberfest."
+      ]
+    },
+    "2011-01-10": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the Kritzkrieg's charge deployed sound getting stuck on."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the crit boost sound not playing when the Kritzkrieg's charge is deployed."
+      ]
+    },
+    "2010-12-22": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed a bug in the Kritzkrieg's animations."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "[Undocumented] The Kritzkrieg was added in the crafting blueprint for the Candy Cane."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "[Undocumented] The Kritzkrieg was added in the crafting blueprint for Crit-a-Cola."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Added a taunt for the Kritzkrieg, which also heals for 11 points.",
+        "Grenades and rockets deflected by a Pyro under the effects of the Kritzkrieg will now be criticals.",
+        "Fixed rapid weapon switching allowing Medics to prevent deployed ÜberCharges from draining."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [
+        "+25% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Increased the Kritzkrieg's ÜberCharge rate bonus from 10% to 25%."
+      ]
+    },
+    "2008-07-29": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the Kritzkrieg not working on servers with crits turned off."
+      ]
+    },
+    "2008-05-09": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the Kritzkrieg not charging faster than the Medi Gun.",
+        "Fixed melee weapons not being affected by the Kritzkrieg's crit boost."
+      ]
+    },
+    "2008-05-07": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed another unlimited ÜberCharge exploit."
+      ]
+    },
+    "2008-05-05": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed unlimited ÜberCharge exploit.",
+        "Fixed charge effect getting stuck on the Kritzkrieg when changing class/weapons."
+      ]
+    },
+    "2008-05-02": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Fixed the Kritzkrieg's client crash in particle system."
+      ]
+    },
+    "2008-04-29": {
+      "positive": [
+        "+10% ÜberCharge rate"
+      ],
+      "negative": [],
+      "neutral": [
+        "ÜberCharge grants 100% critical chance"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

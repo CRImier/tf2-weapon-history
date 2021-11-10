@@ -1,0 +1,191 @@
+{
+  "weapon": "Direct Hit",
+  "title": "Rocket Launcher",
+  "added": "2009-12-17",
+  "stats": {
+    "2017-10-20": {
+      "positive": [
+        "+25% damage bonus",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions, grapple hooks or rocket packs"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Attacks on targets flying via the Thermal Thruster mini-crit.",
+        "[Undocumented] Description updated."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "+25% damage bonus",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions, grapple hooks or enemy attacks"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated description to better detail its functionality."
+      ]
+    },
+    "2014-06-18": {
+      "positive": [
+        "+25% damage bonus",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Fixed the reload of Soldier primary weapons to show rockets in first person."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+25% damage bonus",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "+25% damage bonus",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The damage bonus attribute was changed from \"+25% damage done\" to \"+25% damage bonus\"."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Direct Hit's description was updated.",
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-01-19": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Direct Hit's kill icon was updated."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Direct Hit was added in the crafting blueprint for the Black Box."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "Changed the Direct Hit to only mini-crit enemies that have been launched into the air by an explosion."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Direct Hit no longer scores mini-crits against enemies submerged in water."
+      ]
+    },
+    "2009-12-18": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Direct Hit's short-range damage curve is tweaked to match that of the standard Rocket Launcher."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "+25% damage done",
+        "+80% projectile speed",
+        "Mini-crits targets launched airborne by explosions"
+      ],
+      "negative": [
+        "-70% explosion radius"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Direct Hit was added to the game."
+      ]
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "weapon": "Razorback",
+  "title": "Shield",
+  "added": "2009-05-21",
+  "stats": {
+    "2018-04-12": {
+      "positive": [
+        "Blocks a single backstab attempt",
+		"[Hidden] Shield regenerates after 30 seconds"
+      ],
+      "negative": [
+        "-100% maximum overheal on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Medics having an accelerated Übercharge build-rate when healing full-health Snipers who are using The Razorback."
+      ]
+    },
+    "2018-03-28": {
+      "positive": [
+        "Blocks a single backstab attempt",
+		"[Hidden] Shield regenerates after 30 seconds"
+      ],
+      "negative": [
+        "-100% maximum overheal on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Razorback shields not being preserved across round restarts.",
+        "Fixed Sniper ragdolls not displaying the correct state for the Razorback when the Sniper is killed (drawing when it should be hidden and vice-versa)."
+      ]
+    },
+    "2017-11-01": {
+      "positive": [
+        "Blocks a single backstab attempt",
+		"[Hidden] Shield regenerates after 30 seconds"
+      ],
+      "negative": [
+        "-100% maximum overheal on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a bug related to the Razorback and touching a resupply closet or respawning."
+      ]
+    },
+    "2017-10-20": {
+      "positive": [
+        "Blocks a single backstab attempt",
+		"[Hidden] Shield regenerates after 30 seconds"
+      ],
+      "negative": [
+        "-100% maximum overheal on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added -100% overheal penalty.",
+        "Shield regenerates after 30 seconds."
+      ]
+    },
+    "2016-09-12": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Strange Razorback double-counting the number Spies shocked."
+      ]
+    },
+    "2012-03-15": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Item schema update] The Razorback was added to the crafting recipe for the Cozy Camper."
+      ]
+    },
+    "2011-09-20": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Razorback was added to the crafting blueprint for Darwin's Danger Shield."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Razorback was added to the crafting blueprint for the Gunboats."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "The Spy can no longer change weapons from the knife while shocked by the Razorback.",
+        "The Razorback no longer slows a Sniper down."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [
+        "Blocks a single backstab attempt"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

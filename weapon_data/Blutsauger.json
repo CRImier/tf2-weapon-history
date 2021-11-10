@@ -1,0 +1,127 @@
+{
+  "weapon": "Blutsauger",
+  "title": "Syringe Gun",
+  "added": "2008-04-29",
+  "stats": {
+    "2015-07-02": {
+      "positive": [
+        "On Hit: Gain up to +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2013-11-21": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Australium variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2012-04-27": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed damage to buildings applying on-hit effects."
+      ]
+    },
+    "2012-04-17": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Blutsauger will now grant health when striking an Engineer Building."
+      ]
+    },
+    "2012-01-11": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Item schema update] Added Strange Quality."
+      ]
+    },
+    "2011-03-10": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Blutsauger was given a unique kill icon."
+      ]
+    },
+    "2009-09-15": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "-2 health drained per second on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Replaced \"No critical hits\" negative attribute with \"-2 health drained per second on wearer\"."
+      ]
+    },
+    "2008-04-29": {
+      "positive": [
+        "On Hit: +3 health"
+      ],
+      "negative": [
+        "No critical hits"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "weapon": "Sandman",
+  "title": "Bat",
+  "added": "2009-02-24",
+  "stats": {
+    "2018-06-07": {
+      "positive": [
+        "Alt-Fire: Launches a ball that slows opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Scouts not being able to pick-up the Sandman's baseball."
+      ]
+    },
+    "2017-10-20": {
+      "positive": [
+        "Alt-Fire: Launches a ball that slows opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Stun mechanic reworked into slowing mechanic.",
+        "Max range balls now do 50% increased damage from a base of 15.",
+        "The flight time required to trigger the max effect has been reduced by 20%.",
+        "Ball regeneration time reduced to 10 seconds."
+      ]
+    },
+    "2017-02-14": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed some missing VO sounds for the Scout when he picks up a baseball."
+      ]
+    },
+    "2016-12-21": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added Festivized variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-07-20": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Strange Sandman not accepting the Posthumous Kills strange part."
+      ]
+    },
+    "2011-12-21": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Refined recoil force for the Sandman."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "Alt-Fire: Launches a ball that stuns opponents"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The stun attribute wording was changed.",
+        "[Undocumented] Fixed a Head-up display bug in which the ball recharge meter for The Sandman would show the improper amount of charge under certain circumstances."
+      ]
+    },
+    "2011-07-12": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Item schema update] Added Strange quality."
+      ]
+    },
+    "2011-06-23": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Sandman was added in the Atomizer's crafting blueprint."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Sandman was removed from the Ullapool Caber's crafting blueprint."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Sandman's melee attack not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Sandman was given a unique kill icon."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Sandman was added in the Ullapool Caber's crafting blueprint.",
+        "[Undocumented] The Sandman was added in the Boston Basher's crafting blueprint."
+      ]
+    },
+    "2010-10-12": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed server crash caused by a Scout using the Sandman on an enemy Scout who has used Bonk! Atomic Punch."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Sandman was added in the Holy Mackerel's crafting blueprint."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Sandman now uses the Bat kill icon",
+        "while the ball's stun uses the existing Sandman's kill icon."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Sandman was added to the Pain Train's crafting blueprint."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added a slight speed reduction to stunned players."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed this weapon being able to bat balls through doors."
+      ]
+    },
+    "2010-01-06": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-15 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Reduced the health penalty on the Sandman to \"-15 max health\"."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-30 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated the Baseball's HUD indicator to stay on screen when full."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-30 max health on wearer",
+        "[Hidden] 75% damage vs (long-range) stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Sandman will only stun on a max range hit.",
+        "All shorter hits now force the enemy into the third-person fleeing state (also removed the damage reduction on them).",
+        "A recharge sound was added to the Sandman's recharge ability."
+      ]
+    },
+    "2009-08-13": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "-30 max health on wearer",
+        "[Hidden] 75% damage vs stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "You now receive 1 point for stunning an enemy and 2 points for a long range stun.",
+        "Stunned players now take 75% of all incoming damage instead of 50%.",
+        "ÜberCharged players can no longer be stunned.",
+        "The minimum distance to stun a target has been reduced.",
+        "[Undocumented] Primary fire for the Sandman now swings the bat, while alt-fire now launches the baseball.",
+        "[Undocumented] Added swinging animations to the Sandman when a Scout swings the bat with the ball still in his hand."
+      ]
+    },
+    "2009-05-26": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "Disables double jump",
+        "[Hidden] 50% damage vs stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed kill descriptions for Force-A-Nature & Sandman so server logs can distinguish them."
+      ]
+    },
+    "2009-03-13": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "Disables double jump",
+        "[Hidden] 50% damage vs stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Players who are stunned by a ball now take 50% less damage.",
+        "The minimum distance to stun a player using this weapon was increased."
+      ]
+    },
+    "2009-02-25": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "Disables double jump"
+      ],
+      "neutral": [],
+      "changes": [
+        "Removed the damage reduction against non-stunned enemies on the Sandman.",
+        "Fixed the BONK! particles appearing in the air when this weapon's taunt kill is used on a target."
+      ]
+    },
+    "2009-02-24": {
+      "positive": [
+        "This bat knocks out a mean stun ball"
+      ],
+      "negative": [
+        "Disables double jump",
+        "[Hidden] 50% damage vs non-stunned players"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

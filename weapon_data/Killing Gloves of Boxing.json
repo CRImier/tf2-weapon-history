@@ -1,0 +1,152 @@
+{
+  "weapon": "Killing Gloves of Boxing",
+  "title": "Boxing Gloves",
+  "added": "2008-08-19",
+  "stats": {
+    "2016-02-29": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Updated firing sounds for the Killing Gloves of Boxing."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-02-02": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-08-18": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Fixed this weapon not hiding Heavy's default fists."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added community contributed response rules to the Killing Gloves of Boxing."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Killing Gloves of Boxing was added to the crafting blueprint for the Fists of Steel.",
+        "[Undocumented] The crafting cost for the Gloves of Running Urgently reduced to one Scrap Metal + Killing Gloves of Boxing."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2011-01-10": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Heavy's fists not playing the critical hit animation."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Killing Gloves of Boxing's kill icon was updated."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Killing Gloves of Boxing was added to the crafting blueprint for the Gloves of Running Urgently."
+      ]
+    },
+    "2009-02-25": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Heavy's hands disappearing when he's stunned while wearing the Killing Gloves of Boxing."
+      ]
+    },
+    "2008-08-19": {
+      "positive": [
+        "On Kill: 5 seconds of 100% critical chance"
+      ],
+      "negative": [
+        "-20% slower firing speed"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

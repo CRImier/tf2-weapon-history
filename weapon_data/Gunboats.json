@@ -1,0 +1,98 @@
+{
+  "weapon": "Gunboats",
+  "title": "Boots",
+  "added": "2009-12-17",
+  "stats": {
+    "2014-04-01": {
+      "positive": [
+        "-60% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Updated The Gunboats so they can be used in Medieval mode."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "-60% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "-60% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "The Gunboats now reduce self-damage by 60% (was 75%)."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added crafting recipe for the Gunboats.",
+        "[Undocumented] Updated the Gunboats so they could be crafted with other Soldier weapons."
+      ]
+    },
+    "2010-04-30": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Gunboats not properly applying the damage reduction when Spectators are nearby."
+      ]
+    },
+    "2010-04-28": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed a case where The Gunboats didn't apply their damage reduction properly."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Fixed the Gunboats absorbing damage from the Soldier's Kamikaze taunt."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Updated the Gunboats to absorb damage from any self-inflicted rocket blast that doesn't hurt another player."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "-75% blast damage from rocket jumps"
+      ],
+      "negative": [],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

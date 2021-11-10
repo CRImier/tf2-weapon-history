@@ -1,0 +1,271 @@
+{
+  "weapon": "Jarate",
+  "title": "Jar Based Karate",
+  "added": "2009-05-21",
+  "stats": {
+    "2016-12-21": {
+      "positive": [
+        "Extinguishing teammates reduces cooldown by -20%"
+      ],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Fixed not being able to transfer Strange stats between versions of Jarate."
+      ]
+    },
+    "2016-01-07": {
+      "positive": [
+        "Extinguishing teammates reduces cooldown by -20%"
+      ],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] Updated Jarate 20% cooldown reduction when used to extinguish a burning teammate from neutral attribute to positive attribute."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires",
+        "Extinguishing teammates reduces cooldown by -20%"
+      ],
+      "changes": [
+        "Extinguishing an ally now reduces the cooldown by 20%."
+      ]
+    },
+    "2015-10-08": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Jarate and Mad Milk will collide with friendly teammates that are on fire at close range."
+      ]
+    },
+    "2015-10-06": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Throwables (Jarate",
+        "Mad Milk",
+        "Flying Guillotine) will now pass through friendly targets at close range. This is the same behavior as rockets and grenades."
+      ]
+    },
+    "2013-12-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] Added Festive variant."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2013-08-27": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Fixed a bug that would prevent Jarate and Mad Milk from applying to all targets within range."
+      ]
+    },
+    "2012-05-15": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] The Jarate was added to the crafting recipe for the Cozy Camper."
+      ]
+    },
+    "2012-03-01": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Refined Jarate throw force."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Added additional Jarate hit responses."
+      ]
+    },
+    "2011-08-18": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] Added Strange Quality."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Added community contributed voice responses for Scout",
+        "Engineer",
+        "and Sniper when hit by Jarate."
+      ]
+    },
+    "2011-05-10": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Updated the Jarate's model with optimizations and LODs."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Throwing the Jarate now returns you to your previous weapon",
+        "instead of your primary."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] The Jarate was added to the crafting blueprint for Mad Milk."
+      ]
+    },
+    "2010-05-20": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "[Undocumented] The Jarate was added in the crafting blueprint for the Scotsman's Skullcutter."
+      ]
+    },
+    "2009-12-22": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Updated the Jarate's HUD indicator to stay on screen when full."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Added recharge sound to abilities with a recharge bar."
+      ]
+    },
+    "2009-08-13": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Added a color blind option to add a Jarate icon above enemies who are busy accepting a terrifying existence where they have no dignity.",
+        "Removed self-inflicted Mini-Crits. Fixes Jarate'd Soldiers/Demomen having ineffective rocket/grenade jumps."
+      ]
+    },
+    "2009-05-29": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Fixed attackers seeing the Mini-Crit particle effect for full crits if the victim has the Jarate effect enabled."
+      ]
+    },
+    "2009-05-26": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Fixed server crash related to the Jarate."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [],
+      "negative": [],
+      "neutral": [
+        "Coated enemies take mini-crits",
+        "Can be used to extinguish fires"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

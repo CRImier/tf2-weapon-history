@@ -1,0 +1,240 @@
+{
+  "weapon": "Equalizer",
+  "title": "Pickaxe",
+  "added": "2009-12-17",
+  "stats": {
+    "2015-07-02": {
+      "positive": [
+        "When weapon is active:",
+        "Damage increases as the user becomes injured"
+      ],
+      "negative": [
+        "-90% less healing from Medic sources"
+      ],
+      "neutral": [],
+      "changes": [
+        "Changed no healing penalty to 90% less healing from Medics while active."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "Damage increases as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2013-10-29": {
+      "positive": [
+        "Damage increases as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Strange Part: Kills While Ubercharged can no longer be applied to Strange Equalizers and Escape Plans"
+      ]
+    },
+    "2012-07-29": {
+      "positive": [
+        "Damage increases as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Crusader's Crossbow healing teammates with the Equalizer or the Escape Plan deployed.",
+        "Fixed not seeing team colors on the sleeves for the Equalizer and the Escape Plan."
+      ]
+    },
+    "2012-06-27": {
+      "positive": [
+        "Damage increases as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Removed player move speed modification and added it to the Escape Plan.",
+        "All owners of the Equalizer will be automatically granted the Escape Plan."
+      ]
+    },
+    "2011-10-25": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-05-05": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added a voice response for the Kamikaze taunt."
+      ]
+    },
+    "2011-04-14": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Tuned high-end damage range so it's no longer possible to one-shot certain classes.",
+        "Suppress the Medic call effect while active."
+      ]
+    },
+    "2011-02-22": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Amputator and the Crusader's Crossbow healing teammates that have the Equalizer as their active weapon."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Updated model with optimizations and new LODs."
+      ]
+    },
+    "2011-01-07": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Lumbricus Lid Kamikaze taunt kill received a unique kill icon."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Kamikaze self-damage has been increased to 320",
+        "which prevents Soldiers from surviving the taunt when overhealed normally."
+      ]
+    },
+    "2010-08-26": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed the Lumbricus Lid not playing the correct sound during the Kamikaze taunt."
+      ]
+    },
+    "2010-05-12": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Equalizer was added in the crafting blueprint for the Homewrecker."
+      ]
+    },
+    "2010-04-15": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Reduced the damage bonus the Equalizer receives as the player loses health."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Players can no longer survive Kamikaze by equipping the Gunboats."
+      ]
+    },
+    "2009-12-18": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a server crash caused by using the Equalizer."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "Damage and move speed increase as the user becomes injured"
+      ],
+      "negative": [
+        "Blocks healing while in use"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

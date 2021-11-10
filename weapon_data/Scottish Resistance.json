@@ -1,0 +1,329 @@
+{
+  "weapon": "Scottish Resistance",
+  "title": "Stickybomb Launcher",
+  "added": "2009-12-17",
+  "stats": {
+    "2019-09-23": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Scottish Resistance stickies not always being visible through walls."
+      ]
+    },
+    "2018-03-28": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed stickybombs sometimes blocking explosive damage from other stickybombs."
+      ]
+    },
+    "2016-02-29": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Updated all Stickybomb Launcher's reload sounds."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Updated model to c_model system."
+      ]
+    },
+    "2014-12-22": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "It is now slightly easier to do sticky jumps with the Scottish Resistance. Increased range check for stickybomb jumping to sticky damage radius of 146 from 100."
+      ]
+    },
+    "2014-06-23": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Reverted the recent stickybomb damage ramp up change. We will continue to evaluate the use of stickybomb air detonations and potential changes to that mechanic."
+      ]
+    },
+    "2014-06-18": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "All Demoman stickybombs now have damage ramp up. Full damage is reached 2 seconds after firing."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2011-12-01": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed Demoman weapons primary/secondary being backwards in the loadout screen."
+      ]
+    },
+    "2011-07-18": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed a case where stickybombs could sometimes damage enemies on the other side of a wall."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The crafting blueprint for the Loch-n-Load changed from two Reclaimed Metal + Scottish Resistance to one Reclaimed Metal + Scottish Resistance."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2011-02-03": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair and directly under your feet",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [ 
+        "Updated the Scottish Resistance stickybombs to always glow if they will be detonated by a right-click",
+        "including the stickybombs under the Demoman's feet.",
+        "Updated model with optimizations and LODs."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Scottish Resistance was added in the crafting blueprint for the Loch-n-Load."
+      ]
+    },
+    "2010-12-17": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added the laser attachment to the worldmodel of the Scottish Resistance.",
+        "[Undocumented] Mirrored the Scottish Resistance first person viewmodel to match the worldmodel."
+      ]
+    },
+    "2010-09-30": {
+      "positive": [
+        "+25% faster firing speed",
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.8 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Scottish Resistance now fires 25% faster and has a 0.4 second longer bomb arm time (Total bomb arm time is now 0.8 seconds",
+        "was 0.4 seconds before)."
+      ]
+    },
+    "2010-07-08": {
+      "positive": [
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.4 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Scottish Resistance now shows location of stickies placed with glow effect (Only on DirectX 9 or higher)."
+      ]
+    },
+    "2010-05-05": {
+      "positive": [
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.4 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed deflected Stickybombs becoming mini-crits when detonated.",
+        "Fixed deflected Stickybombs becoming crits if the Pyro was crit-boosted."
+      ]
+    },
+    "2009-12-17": {
+      "positive": [
+        "+50% max secondary ammo on wearer",
+        "+6 max pipebombs out",
+        "Detonates stickybombs near the crosshair",
+        "Able to destroy enemy stickybombs"
+      ],
+      "negative": [
+        "0.4 sec slower bomb arm time"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}

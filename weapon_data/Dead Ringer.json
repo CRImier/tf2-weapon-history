@@ -1,0 +1,529 @@
+{
+  "weapon": "Dead Ringer",
+  "title": "Invis Watch",
+  "added": "2009-05-21",
+  "stats": {
+    "2017-10-20": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Ammo kits and Dispensers no longer refill the Spy's cloak meter."
+      ]
+    },
+    "2017-02-14": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Fixed Spectators seeing the fake death notices for the Spy when he feigns death."
+      ]
+    },
+    "2016-11-14": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Fixed a bug related to using the Dead Ringer while carrying the flag."
+      ]
+    },
+    "2016-04-25": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Fixed ragdolls not drawing the head properly when a Spy feigns death."
+      ]
+    },
+    "2016-03-03": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Updated the draw sound for the Dead Ringer."
+      ]
+    },
+    "2015-12-17": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 75%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "The HUD 'Cloak' meter now displays 'FEIGN' when Dead Ringer is equipped.",
+        "Initial damage reduction when feigning death increased to 75% from 50%."
+      ]
+    },
+    "2015-07-15": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 50%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Fixed an issue with Unusual Revolvers where the unusual effect would sometimes not disappear when the Spy would feign death, disguise, cloak, etc."
+      ]
+    },
+    "2015-07-08": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 50%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Fixed a case where speed-line particles were visible for enemy players when a Spy triggered the Dead Ringer."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "+50% cloak regen rate",
+        "+40% cloak duration",
+        "[Hidden] Activating hit has damage reduced by 50%",
+        "[Hidden] Feign Death stealth has no bump shimmer for 3 seconds"
+      ],
+      "negative": [
+        "-50% cloak meter when Feign Death is activated",
+        "[Hidden] No cloak meter from ammo boxes while cloaked"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death",
+        "Leave a fake corpse on taking damage and temporarily gain invisibility, speed and damage resistance"
+      ],
+      "changes": [
+        "Item reworked."
+      ]
+    },
+    "2015-01-27": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation",
+        "gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] While under effect of Feign Death, taking damage decreases duration of damage reduction",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Fixed a bug with Dead Ringer Cloak meter being lowered to 40% after Super Armor duration ends when Cloak was extended via pickups or the L'Etranger."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] While under effect of Feign Death, taking damage decreases duration of damage reduction",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Added Collector's quality."
+      ]
+    },
+    "2013-07-11": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] While under effect of Feign Death, taking damage decreases duration of damage reduction",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "When disguised as a teammate, the Dead Ringer will drop the body of the player the Spy is disguised as."
+      ]
+    },
+    "2013-07-10": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] While under effect of Feign Death, taking damage decreases duration of damage reduction",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "When under the effect of Feign Death, taking damage decreases duration of damage reduction."
+      ]
+    },
+    "2012-12-21": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Fixed a Dead Ringer Spy exploit in Mann Vs. Machine mode."
+      ]
+    },
+    "2012-06-28": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Death pits on sd_doomsday now properly kill Dead Ringered Spies."
+      ]
+    },
+    "2012-02-02": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-10-13": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "[Undocumented] The Dead Ringer now plays a tone if Cloak is fully recharged."
+      ]
+    },
+    "2011-09-30": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "[Undocumented] The Dead Ringer was added to the crafting blueprint for the L'Etranger.",
+        "[Undocumented] Your silhouette can be seen if touching an enemy."
+      ]
+    },
+    "2010-05-20": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "[Undocumented] The Dead Ringer was added to the crafting blueprint for the Tribalman's Shiv."
+      ]
+    },
+    "2010-01-13": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Feigning death shows gibs, sniper shots, backstabs, etc, as expected.",
+        "Corpses from a feign death use correct wearable behavior",
+        "Weapons dropped from a feign death have proper collision.",
+        "Fixed a couple of physics issues on ragdolls created by feign death."
+      ]
+    },
+    "2010-01-06": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak to 40% on early uncloak",
+        "[Hidden] Max of 35% Cloak refill from ammo pack"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "The Dead Ringer now reduces Cloak to 40% when uncloaking early.",
+        "Made a 35% cap on the amount of Cloak it can gain from an ammo pack.",
+        "Has as a quieter decloak sound."
+      ]
+    },
+    "2009-07-14": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by up to 40% on early uncloak, if Cloak is above 60%"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "[Undocumented] The Dead Ringer's recharge time was shortened from 18.5 seconds to 16.5 seconds."
+      ]
+    },
+    "2009-06-25": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by up to 40% on early uncloak, if Cloak is above 60%"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Fixed the Dead Ringer's damage reduction exploit involving Spy taunting."
+      ]
+    },
+    "2009-06-23": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by up to 40% on early uncloak, if Cloak is above 60%"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "The Dead Ringer's Cloak meter can now be regenerated from ammo sources.",
+        "The Dead Ringer's Cloak consume rate has been slightly reduced.",
+        "The Dead Ringer's \"extra\" Cloak powers (damage reduction and no-flicker) are not extended by obtaining ammo.",
+        "Being attacked while taunting with the Dead Ringer out no longer triggers a Spy's Cloak, but instead keeps the damage reduction for the remaining duration of the taunt.",
+		"Emerging from this item's Cloak now drains up to 40% of the Cloak meter instead of 100%."
+      ]
+    },
+    "2009-06-08": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by 100% on early uncloak",
+		"[Hidden] Cannot refill Cloak from ammo packs"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "The Dead Ringer can now be activated while carrying the flag."
+      ]
+    },
+    "2009-05-29": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by 100% on early uncloak",
+		"[Hidden] Cannot refill Cloak from ammo packs"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Fixed Spies not being telefragged when standing on an enemy teleporter exit with this item enabled."
+      ]
+    },
+    "2009-05-26": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+        "[Hidden] Reduces Cloak by 100% on early uncloak",
+		"[Hidden] Cannot refill Cloak from ammo packs"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "The Dead Ringer now fully drains the Cloak meter, even if the Spy uncloaks early."
+      ]
+    },
+    "2009-05-22": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+		"[Hidden] Cannot refill Cloak from ammo packs"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Fixed Spy feign death not being reflected in scoreboard."
+      ]
+    },
+    "2009-05-21": {
+      "positive": [
+        "+80% cloak regen rate",
+        "[Hidden] On activation, gain 90% damage reduction for 6.5 seconds"
+      ],
+      "negative": [
+        "+60% cloak drain rate",
+		"[Hidden] Cannot refill Cloak from ammo packs"
+      ],
+      "neutral": [
+        "Cloak Type: Feign Death"
+      ],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}
