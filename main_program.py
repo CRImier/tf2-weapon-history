@@ -55,6 +55,8 @@ class Ticks(QtWidgets.QSlider):
 
 
 class Window(QMainWindow):
+	all_weapons = {}
+
 	def __init__(self):
 		super().__init__()
 		
@@ -72,6 +74,8 @@ class Window(QMainWindow):
 
 		self.setWindowTitle("TF2 Item History")
 		self.setWindowIcon(QtGui.QIcon('logo.png'))
+
+		self.load_all_weapons()
 
 		self.file = json.load(open("updates.json", encoding="utf-8"))
 		dates = [datetime.strptime(i, "%Y-%m-%d") for i in list(self.file["updates"].keys())]
@@ -185,7 +189,7 @@ class Window(QMainWindow):
 			self.play_sound( self.sounds[item]+"_pickup.wav" )
 		except: #otherwise play generic sound
 			self.play_sound("item_default_pickup.wav")
-		self.sub_window = SubWindow(item)
+		self.sub_window = SubWindow(item, self.all_weapons[item])
 		self.sub_window.show()
 		
 	def add_box(self, x, y, item, name):
@@ -211,10 +215,10 @@ class Window(QMainWindow):
 
 	def sort_release(self, weapon_list):
 		to_sort = {}
-		for weapon in weapon_list:
-			file = json.load(open(f"weapon_data/{weapon}.json")) #make a dictionary of every valid weapon
-			to_sort[weapon] = (datetime.strptime(file["added"], "%Y-%m-%d") - BASE_DATE).days #with a value of how many days its been
-                																							#between introduction and launch
+		weapons = {name:data for name, data in self.all_weapons.items() if name in weapon_list}
+		for weapon_name, weapon_data in weapons.items():
+			to_sort[weapon_name] = (datetime.strptime(weapon_data["added"], "%Y-%m-%d") - BASE_DATE).days #with a value of how many days its been
+																											#between introduction and launch
 		to_sort = sorted(to_sort.items(), key = lambda x: x[1])
 		sorted_weapons = [i[0] for i in to_sort] #sort based on the number of days, and then keep the weapon name
 		return(sorted_weapons)
@@ -235,7 +239,7 @@ class Window(QMainWindow):
 		#print("self.search.text()", repr(self.search.text()))
 
 		if self.search.text() != '':
-			matched_weapons = [weapon.lower() for weapon in valid_weapons if self.search.text().lower() in weapon.lower()]
+			matched_weapons = [weapon for weapon in valid_weapons if self.search.text().lower() in weapon.lower()]
 			print(matched_weapons) #if the search bar is empty, check to see if our substring matches any of the valid weapons
 
 			if self.sort_order == "Release":
@@ -257,13 +261,19 @@ class Window(QMainWindow):
 
 	def get_valid_weapons(self):
 		valid_weapons = []
-		for weapon in os.listdir("weapon_data"):
-			file = json.load(open(f"weapon_data/{weapon}"))
-			date_added = datetime.strptime(file["added"], "%Y-%m-%d")
+		for weapon_name, weapon_data in self.all_weapons.items():
+			date_added = datetime.strptime(weapon_data["added"], "%Y-%m-%d")
 			if (date_added - BASE_DATE).days <= self.DateSelector.value():
-				valid_weapons.append(file["weapon"]) 
+				valid_weapons.append(weapon_name)
 
 		return(valid_weapons) #return all weapons which have an addition date greater than or equals to the current date
+
+	def load_all_weapons(self):
+		for weapon_filename in os.listdir("weapon_data"):
+			weapon_data = json.load(open(f"weapon_data/{weapon_filename}"))
+			weapon_name = weapon_data["weapon"]
+			self.all_weapons[weapon_name] = weapon_data
+			# post-load processing goes here - maybe a call to a separate function
 
 	def play_sound(self, sound):
 		file_path = QUrl.fromLocalFile(f"sounds/{sound}")
@@ -273,11 +283,11 @@ class Window(QMainWindow):
 
 
 class SubWindow(QMainWindow):
-	def __init__(self, weapon):
+	def __init__(self, weapon, weapon_data):
 		super(SubWindow, self).__init__()
 
 		self.weapon = weapon
-		self.file = json.load(open(f"weapon_data/{self.weapon}.json", encoding="utf-8"))
+		self.file = weapon_data
 		self.sounds = json.load( open("sounds/weapon_sounds.json") )
 
 		loadUi("item_window.ui", self)
