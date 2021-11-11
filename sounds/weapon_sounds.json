@@ -35,6 +35,7 @@
     "Golden Wrench":"item_medal",
     "Tribalman's Shiv":"item_knife_small",
     "Scotsman's Skullcutter":"item_knife_large",
+	"Eyelander":"item_knife_large",
     "Vita-Saw":"item_metal_weapon",
     "Powerjack":"item_heavy_gun",
     "Degreaser":"item_heavy_gun",
@@ -130,5 +131,16 @@
     "Quickiebomb Launcher":"item_heavy_gun",
     "Iron Bomber":"item_heavy_gun",
     "Panic Attack Shotgun":"item_heavy_gun",
-    "Nostromo Napalmer":"item_heavy_gun"
+    "Nostromo Napalmer":"item_heavy_gun",
+	"Ubersaw":"item_metal_weapon",
+	"Axtinguisher":"item_metal_weapon",
+	"Flare Gun":"item_light_gun",
+	"Force-A-Nature":"item_heavy_gun",
+	"Ambassador":"item_light_gun",
+	"Huntsman":"item_wood_pole",
+	"Jarate":"item_bottle",
+	"Razorback":"item_wood_pole",
+	"Buff Banner":"item_pack",
+	"Chargin' Targe":"item_wood_pole",
+	"Gunboats":"item_metal_weapon"
 }
