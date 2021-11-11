@@ -3,11 +3,13 @@ import breeze_resources
 from math import ceil
 from datetime import datetime, timedelta
 import sys
+from PIL import Image
+import io
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.uic import loadUi
 from PyQt5.QtCore import QFile, QTextStream, Qt, QUrl, QByteArray
-from PyQt5.QtGui import QFont, QPixmap, QPainter, QPainterPath, QPen, QColor, QBrush, QFontDatabase
+from PyQt5.QtGui import QFont, QPixmap, QPainter, QPainterPath, QPen, QColor, QBrush, QFontDatabase, QImage
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QWidget, QGridLayout, QVBoxLayout, QStyle, QStyleOption, QSizePolicy
 from PyQt5.QtMultimedia import QMediaPlayer, QMediaContent
 
@@ -61,6 +63,8 @@ class Window(QMainWindow):
 		super().__init__()
 		
 		loadUi("main.ui", self)
+
+		self.tiny_images = {}
 
 		self.valid_chars = string.ascii_lowercase + string.ascii_uppercase
 
@@ -194,18 +198,34 @@ class Window(QMainWindow):
 		
 	def add_box(self, x, y, item, name):
 
-		name = name.replace(' ', '_')#.replace('!', '')
+		name = name.replace(' ', '_')
 		name = ''.join(c for c in name if c in self.valid_chars)
 
 		label = QLabel(name)
-		image = f'background-image : url("weapon_images/small/{item}.png"); background-repeat: no-repeat; background-position: center; '
+
+		if item not in self.tiny_images.keys():
+			im = Image.open(f"weapon_images/{item}.png")
+			with io.BytesIO() as f: #resize image to 94, 94 
+				im = im.resize((94, 94))
+				im.save(f, format='png')
+				f.seek(0)
+				image_data = f.read()
+				qimg = QImage.fromData(image_data)
+				patch_qt = QPixmap.fromImage(qimg)
+				self.tiny_images[item] = patch_qt
+
+		else:
+			patch_qt = self.tiny_images[item]
+		
 		hover_stylesheet = "QLabel#" + name + "::hover{background-color:#B29600;}"
-		label.setStyleSheet("QLabel#" + name + "{" + image + "border-radius:10px; border-color: #FFD700; border-width:3px; border-style: solid; background-color: rgb(34, 30, 27);}" + hover_stylesheet)
+		label.setStyleSheet("QLabel#" + name + "{border-radius:10px; border-color: #FFD700; border-width:3px; border-style: solid; background-color: rgb(34, 30, 27);}" + hover_stylesheet)
 		label.setText("")
 		#label.setPixmap(QtGui.QPixmap(f"weapon_images/{item}.png"))
+		label.setPixmap(patch_qt)
 		label.setFixedSize(121, 94)
-		label.setScaledContents(True)
+		#label.setScaledContents(True)
 		label.setObjectName(name)
+		label.setAlignment(Qt.AlignCenter)
 
 		label.enterEvent = lambda event: self.play_sound("item_info_mouseover.wav")
 		label.mousePressEvent = lambda event: self.display_item_window(item)
@@ -310,7 +330,7 @@ class SubWindow(QMainWindow):
 		self.DateSelector.setMaximum((self.last - self.first).days)
 		self.Date.setText(self.first.strftime("%b %d, %Y"))
 
-		self.item.setPixmap(QtGui.QPixmap(f"weapon_images/normal/{self.weapon}.png"))
+		self.item.setPixmap(QtGui.QPixmap(f"weapon_images/{self.weapon}.png"))
 
 		self.name.setFont(QFont("TF2 Build", 18))
 		self.name.setText(f"{self.weapon}")
