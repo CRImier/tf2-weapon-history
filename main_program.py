@@ -429,7 +429,12 @@ class SubWindow(QMainWindow):
 		self.neutral.setFont(QFont("TF2 Secondary", 16))
 		self.neutral.setText('\n'.join(neu))
 
-		update = '\n'.join(['• '+i for i in self.file['stats'][date]['changes']])
+		update = ""
+		for i in range( len(self.file['stats'][date]['changes']) ):
+			if i % 2 == 0:
+				update += '<div style="color:rgb(252, 243, 222);">• ' + self.file['stats'][date]['changes'][i] + "</div>\n"
+			else:
+				update += '<div style="color:rgb(178, 172, 149);">• ' + self.file['stats'][date]['changes'][i] + "</div>\n"
 
 		self.changelog_date.setFont(QFont("TF2 Build", 20))
 		self.changelog_date.setText(date)
