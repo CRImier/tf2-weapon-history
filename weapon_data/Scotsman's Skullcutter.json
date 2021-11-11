@@ -1,0 +1,221 @@
+{
+  "weapon": "Scotsman's Skullcutter",
+  "title": "Axe",
+  "added": "2010-05-20",
+  "stats": {
+    "2017-12-21": {
+      "positive": [
+        "When weapon is active:",
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range and deploys and holsters slower"
+      ],
+      "changes": [
+        "Added Festivized variant."
+      ]
+    },
+    "2017-12-17": {
+      "positive": [
+        "When weapon is active:",
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range and deploys and holsters slower"
+      ],
+      "changes": [
+        "Increased deploy and holster time penalty."
+      ]
+    },
+    "2015-07-02": {
+      "positive": [
+        "When weapon is active:",
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [
+        "This weapon has a large melee range and deploys and holsters slower"
+      ],
+      "changes": [
+        "Updated description to better detail the weapon's features."
+      ]
+    },
+    "2014-12-22": {
+      "positive": [
+        "When weapon is active:",
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Movement speed penalty now only applies when weapon is active."
+      ]
+    },
+    "2013-11-12": {
+      "positive": [
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Collector's quality."
+      ]
+    },
+    "2012-05-17": {
+      "positive": [
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] Added Strange quality."
+      ]
+    },
+    "2011-12-21": {
+      "positive": [
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed missing forces for Demoman swords."
+      ]
+    },
+    "2011-07-22": {
+      "positive": [
+        "+20% damage bonus"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The damage bonus attribute was changed from \"+20% damage done\" to \"+20% damage bonus\"."
+      ]
+    },
+    "2011-06-03": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Added new community contributed response rules to this weapon."
+      ]
+    },
+    "2011-03-15": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The crafting cost for the Horseless Headless Horsemann's Headtaker was reduced by one Refined Metal to one Refined Metal + Unusual Haunted Metal Scrap + Scotsman's Skullcutter."
+      ]
+    },
+    "2011-02-14": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Fixed melee attacks not destroying remote detonation pipes (Stickybombs)."
+      ]
+    },
+    "2010-12-21": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Scotsman's Skullcutter was added to the crafting blueprint for the Back Scratcher."
+      ]
+    },
+    "2010-12-02": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Integrated several improvements to contributed items provided by their authors. (Visual update to textures)"
+      ]
+    },
+    "2010-10-27": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "[Undocumented] The Scotsman's Skullcutter was added to the crafting blueprint for the Horseless Headless Horsemann's Headtaker."
+      ]
+    },
+    "2010-06-11": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Demoman's battleaxe now sounds like a sword. (Hit sound changed from Bottle to Eyelander)"
+      ]
+    },
+    "2010-05-27": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "The Scotsman's Skullcutter was given its own kill icon."
+      ]
+    },
+    "2010-05-20": {
+      "positive": [
+        "+20% damage done"
+      ],
+      "negative": [
+        "15% slower move speed on wearer"
+      ],
+      "neutral": [],
+      "changes": [
+        "Introduced."
+      ]
+    }
+  }
+}
