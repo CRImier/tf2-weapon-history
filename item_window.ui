@@ -378,6 +378,9 @@ background-color: transparent;
        <height>13</height>
       </rect>
      </property>
+     <property name="cursor">
+      <cursorShape>ArrowCursor</cursorShape>
+     </property>
      <property name="styleSheet">
       <string notr="true">background-color: transparent;
 color: #EBE2CA;</string>
@@ -386,7 +389,7 @@ color: #EBE2CA;</string>
       <string/>
      </property>
      <property name="textFormat">
-      <enum>Qt::PlainText</enum>
+      <enum>Qt::RichText</enum>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -436,6 +439,9 @@ color: #EBE2CA;</string>
       <width>131</width>
       <height>31</height>
      </rect>
+    </property>
+    <property name="cursor">
+     <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton#back{
