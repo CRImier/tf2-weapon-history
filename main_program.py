@@ -377,9 +377,9 @@ class SubWindow(QMainWindow):
 		self.DateSelector.setValue( nearest.days )
 
 	def close_window(self):
-		try:
+		if self.sounds[self.weapon]+"_drop.wav" in os.listdir("sounds"):
 			Window.play_sound(self, self.sounds[self.weapon]+"_drop.wav" )
-		except:
+		else:
 			Window.play_sound(self, "item_default_drop.wav" )
 		self.close()
 
