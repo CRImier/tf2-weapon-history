@@ -69,8 +69,8 @@ class Window(QMainWindow):
 		self.valid_chars = string.ascii_lowercase + string.ascii_uppercase
 
 		self.fontDB = QtGui.QFontDatabase()
-		self.fontDB.addApplicationFont(":/fonts/tf2build.ttf")
-		self.fontDB.addApplicationFont(":/fonts/TF2secondary.ttf")
+		self.fontDB.addApplicationFont("fonts/tf2build.ttf")
+		self.fontDB.addApplicationFont("fonts/TF2secondary.ttf")
 
 		self.sounds = json.load( open("sounds/weapon_sounds.json") )
 
